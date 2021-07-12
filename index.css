@@ -1,0 +1,90 @@
+
+body {
+    background-color: rgb(216, 198, 224);
+    font-family: monospace;
+    font-size: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  img{
+    position: inherit;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+  }
+
+  .nome {
+    color: rgb(86, 68, 209);
+    position: inherit;
+    justify-content: center;
+  }
+
+  
+  .descricao{
+    color:slateblue;
+    display: flex;
+    position: inherit;
+    justify-content: center;
+    
+  }
+
+  .descricaodois{
+    color:rgb(255, 255, 255);
+    
+    display: flex;
+    position:inherit;
+    justify-content: center;
+    
+    border-radius: 25px;
+    background: #b8a2c7;
+    padding: 20px;
+    width: 600px;
+  }
+
+  .linkedin{
+    display: flex;
+    position:inherit;
+    justify-content: center;
+  }
+
+  .lattes{
+    display: flex;
+    position:inherit;
+    justify-content: center;
+  }
+
+  .nomecadeiras {
+    color: rgb(140, 126, 230);
+    display: flex;
+    position:inherit;
+    justify-content: center;
+    
+  }
+
+  .textojogo{
+    position: inherit;
+    width: 600px;
+    color: slateblue;
+  }
+
+  .cadeiras ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: inherit;
+    justify-content: center;
+
+    color: rgb(220, 196, 243);
+
+    border-radius: 25px;
+    background: #b8a2c7;
+    padding: 10px;
+    width: 200px;
+  }
+
+  
