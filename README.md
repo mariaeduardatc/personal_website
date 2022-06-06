@@ -1,2 +1,2 @@
 # Description
-Simple project to learn HTML
+Simple project to learn HTML and CSS
